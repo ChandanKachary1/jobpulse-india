@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /api/seed
+
+Disallow: /admin
+
+Sitemap: https://jobpulseindia.com/sitemap.xml
